@@ -1,0 +1,1 @@
+scrapy crawl stgcrawl -s JOBDIR=crawls/stgcrawl_090922
